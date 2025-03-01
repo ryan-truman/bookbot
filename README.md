@@ -1,2 +1,2 @@
 # bookbot
-Repository to hos the bookbot assignment for the boot.dev course
+BookBot is my first [Boot.dev](https://www.boot.dev) project!
